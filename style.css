@@ -1,0 +1,27 @@
+body > main {
+    margin-top: 150px;
+    margin-bottom: 30px;
+    margin-right: 30px;
+    margin-left: 150px;
+    font-family: sans-serif;
+  }
+
+body > header {
+    background: repeating-linear-gradient(
+        67deg,
+        #606dbc 10px,
+        #ff00b3 300px,
+        #606dbc 300px
+      );
+    color: white;
+}
+
+body > footer {
+    background: repeating-linear-gradient(
+        67deg,
+        #606dbc 10px,
+        #ff00b3 300px,
+        #606dbc 300px
+      );
+    color: white;
+}
